@@ -1,6 +1,6 @@
 # Image Selector – Mark & Delete GUI
 
-A Python GUI tool to browse random images from a directory, mark unwanted ones, and optionally delete them. Built with `tkinter` and `Pillow`.
+A Python GUI tool to browse random images from a directory, mark unwanted ones, and optionally delete them. Built with `tkinter` and `Pillow`. This solves the problem of having a large dir of pictures that is hard to load within the your system. Works good for triage and pentesting and cyber investigations.
 
 ## Features
 
