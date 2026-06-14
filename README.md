@@ -70,7 +70,7 @@ Choose a directory – type the path or click "Browse".
 
 Select sample size – how many random images to load (ALL may be slow for huge folders).
 
-Review images:
+### Review images:
 
 Mark & Next → marks current image and moves to next.
 
@@ -86,12 +86,12 @@ Save list of marked paths to marked_for_deletion.txt.
 
 Exit without action if you only want to browse.
 
-Notes
+### Notes
 Deletions are permanent (no recycle bin). Use the "Save Marked List" option if unsure.
 
 For folders with tens of thousands of images, sampling 100–1000 is recommended for performance.
 
 Supported image formats: .jpg, .jpeg, .png, .gif, .bmp, .tiff.
 
-License
+### License
 MIT
