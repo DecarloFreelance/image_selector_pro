@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Image Selector – Mark & Delete GUI
 
 A Python GUI tool to browse random images from a directory, mark unwanted ones, and optionally delete them. Built with `tkinter` and `Pillow`.
@@ -60,12 +59,12 @@ On some Linux installations, tkinter is not bundled. Install it:
 sudo apt install python3-tk   # Debian/Ubuntu
 ```
 
-Usage
+### Usage
 Run the script:
 ```bash
 python3 image_selector_pro.py
 ```
-Follow the dialogs:
+### Follow the dialogs:
 
 Choose a directory – type the path or click "Browse".
 
